@@ -1,6 +1,6 @@
 -- ============================================================
 -- COVID-19 Data Exploration Project
--- Author   : Portfolio Project (inspired by Alex The Analyst)
+-- Author   : Portfolio Project 
 -- Dataset  : Our World In Data – CovidDeaths & CovidVaccinations
 -- Tool     : MySQL
 -- Purpose  : Explore global COVID-19 trends including infections,
